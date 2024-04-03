@@ -1,0 +1,3 @@
+https://5e.tools/index.html
+
+Lo primero q note es q usa scripts antes del head para cargar el google analitycs luego uno q tine q ver con la localizacion de la persona y ya dentro del head y body tiene varios para las distintas funciones de la pagina como la busqueda q mientras vas tecleando te va dando resultados o la mensajeria q te da tiradas de datos y mas cosas
